@@ -1,13 +1,6 @@
 # 2017-11-14-teach-in-github
 2017-11-14-teach-in-github
 
-## 5th Period
+## 6th Period
 
-* I like git
-* Ms. Cason is awesome!
-* Test on Wednesday
-
-#### Another Headline
-
-
-
+One more to go!
