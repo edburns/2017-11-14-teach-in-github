@@ -5,3 +5,4 @@
 
 * Ms. Cason is awesome!
 * Too bad there is only one more to go.
+* 6th period is the best period.
