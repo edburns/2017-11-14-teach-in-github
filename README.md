@@ -3,4 +3,5 @@
 
 ## 6th Period
 
-One more to go!
+* Ms. Cason is awesome!
+* Too bad there is only one more to go.
