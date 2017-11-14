@@ -3,5 +3,8 @@
 
 ## 5th Period
 
+* I like git
+* Ms. Cason is awesome!
+* Test on Wednesday
 
 
