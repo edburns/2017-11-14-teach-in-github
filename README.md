@@ -1,11 +1,6 @@
 # 2017-11-14-teach-in-github
 2017-11-14-teach-in-github
 
-## 6th Period
+## 7th Period
 
-* Ms. Cason is awesome!
-* Too bad there is only one more to go.
-+ Bullet
-- Bullet
-
-#### Headline
+* Last one of Teach-In 2017!
